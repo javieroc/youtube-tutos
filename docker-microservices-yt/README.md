@@ -24,4 +24,4 @@ We are using `docker` and `docker-compose` to handle our microservices.
 
 ## Architecture
 
-![Architecture](./docker-microservices-yt/diagram.png?raw=true "Title")
+![Architecture](./diagram.png?raw=true "Title")
